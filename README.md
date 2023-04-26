@@ -8,6 +8,7 @@
 
 - 🔭 I'm in search of new career opportunities now.  
   
+My progects: https://alla2021.github.io/CV_Alla-Homcharova/
 
 <br/>  
 
