@@ -11,7 +11,7 @@
 My website: https://alla2021.github.io/CV_Alla-Honcharova/
 
 Here you will find the most up-to-date version of my resume and information on my work experience, education, and skills.
-https://drive.google.com/file/d/1zMLwFoFKi1gCQvCC0ibDpU5SawYboNMN/view?usp=share_link
+[CV](https://drive.google.com/file/d/1zMLwFoFKi1gCQvCC0ibDpU5SawYboNMN/view?usp=share_link)
 
 Projects:
 
