@@ -8,10 +8,36 @@
 
 - 🔭 I'm in search of new career opportunities now.  
   
-My projects: https://alla2021.github.io/CV_Alla-Honcharova/
+My website: https://alla2021.github.io/CV_Alla-Honcharova/
 
 Here you will find the most up-to-date version of my resume and information on my work experience, education, and skills.
 https://drive.google.com/file/d/1zMLwFoFKi1gCQvCC0ibDpU5SawYboNMN/view?usp=share_link
+
+Projects:
+
+Online Store
+
+> Link: [CBD Website](https://alla2021.github.io/CBD-website/)
+
+Landing Pages
+
+> Link: [NT Website](https://alla2021.github.io/NT-website/)
+
+> Link: [Superpeer](https://alla2021.github.io/Superpeer/)
+
+> Link: [Bhromaon Website](https://alla2021.github.io/Bhromaon-website/)
+
+JS
+
+> Link: [Notes App](https://alla2021.github.io/notes-app/)
+
+React
+
+> Link: [Courses App](https://alla2021.github.io/Courses_App/)
+
+Vue
+
+> Link: [Vue Project](https://incomparable-sorbet-4d5b1c.netlify.app)
 
 <br/>  
 
