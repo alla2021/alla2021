@@ -42,7 +42,12 @@ Vue
 > Link: [Vue Project](https://incomparable-sorbet-4d5b1c.netlify.app)
 
 WordPress
-> Link:[Майстерня Івана](https://www.maysternia-ivana.lviv.ua/)
+
+> Link: [Майстерня Івана](https://www.maysternia-ivana.lviv.ua/)
+
+UAgirlsKIT
+
+> Link: [UAgirlsKIT]https://uagirlskit.github.io/landing_page/
 
 
 <br/>  
