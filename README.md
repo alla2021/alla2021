@@ -29,6 +29,10 @@ Landing Pages
 
 > Link: [Monticello](https://alla2021.github.io/monticello/)
 
+ UAgirlsKIT (Teamwork)
+
+> Link: [UAgirlsKIT](https://uagirlskit.github.io/landing_page/)
+
 JS
 
 > Link: [Notes App](https://alla2021.github.io/notes-app/)
@@ -41,13 +45,11 @@ Vue
 
 > Link: [Vue Project](https://incomparable-sorbet-4d5b1c.netlify.app)
 
-WordPress
+WordPress (Teamwork)
 
 > Link: [Майстерня Івана](https://www.maysternia-ivana.lviv.ua/)
 
-UAgirlsKIT
 
-> Link: [UAgirlsKIT]https://uagirlskit.github.io/landing_page/
 
 
 <br/>  
