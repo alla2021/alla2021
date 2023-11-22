@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Alla. I'm a front-end web developer with experience in 1+. I'm currently working on a few different projects, which you can check out below. 👨‍💻  </div>  
+### <div align="center">My name is Alla. I'm a front-end web developer with experience in 2+. I'm currently working on a few different projects, which you can check out below. 👨‍💻  </div>  
   
 
 - 🔭 I'm in search of new career opportunities now.  
