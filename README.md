@@ -27,6 +27,7 @@ JS
 React
 
 > Link: [Courses App](https://alla2021.github.io/Courses_App/)
+> Link: [Movies app](https://github.com/alla2021/react-movie-app)
 
 Vue
 
